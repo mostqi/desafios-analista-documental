@@ -2,7 +2,7 @@
 
 Seguem abaixo os itens do desafio para os candidatos à vaga de Analista Documental:
 
-1. [Desafio 01](.desafio-01/README.md)
+1. [Desafio 01](desafio-01/README.md)
 
 ## Como os desafios deverão ser entregues
 
