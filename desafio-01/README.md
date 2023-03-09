@@ -24,7 +24,7 @@ Avaliar os conhecimentos do candidato relacionados aos desafios que serão encon
 - Após a leitura e compreensão da estrutura de classificação da MOST, acesse nossa aba de Tipificação e Extração de Dados (https://demo.mostqi.com/trials) e avalie a classificação de cada um dos documentos que aparecem na página¹. Faça um resumo do seu entendimento. Você também pode subir algum documento seu e nos falar sobre sua impressão.
 
 ¹ Para avaliar a classificação, mude a visão de tabela para json, depois navegue pela estrutura do retorno/resposta do mostQI e veja as classificações na lista de tags.
-
+![imagem](https://github.com/mostqi/desafios-analista-documental/blob/main/desafio-01/mostqi.jpg)
 
 
 ### Questão 3
